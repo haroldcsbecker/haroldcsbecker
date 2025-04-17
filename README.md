@@ -8,8 +8,8 @@ I specialize in **backend development**, with hands-on experience in **PHP**, **
 🚀 Passionate about clean software architecture and design patterns  
 🛠️ Build tools and utilities to speed up workflows  
 🌱 Always learning — especially interested in distributed systems and clean architecture  
-💡 The “let’s automate this” kind of teammate
-📚 Love sharing knowledge and collaborating on technical solutions
+📚 Love sharing knowledge and collaborating on technical solutions    
+💡 The “let’s automate this” kind of teammate      
 
 ### 📫 **Contact**
 Feel free to reach out or check out what I’m working on:
