@@ -1,4 +1,6 @@
-### 👋 Hey, I'm Harold C S Becker — software developer from Brazil 🇧🇷
+![planet_minimal](https://github.com/user-attachments/assets/136c25d2-faa5-474a-9093-e50542b70173)
+
+### 👋 Hello, I'm Harold C S Becker — software developer from Brazil 🇧🇷
 
 I love solving real problems through code and building things that make life easier — for me, my team, or anyone who stumbles upon my work. Most of my time is spent writing code, exploring new technologies, and contributing to software that matters.
 
@@ -14,7 +16,7 @@ I specialize in **backend development**, with hands-on experience in **PHP**, **
 ### 📫 **Contact**
 Feel free to reach out or check out what I’m working on:
 
-<a href="https://www.linkedin.com/in/harold-becker/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/harold-becker"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:hcsb20@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ![haroldcsbecker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haroldcsbecker&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
